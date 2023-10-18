@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+body {
+    background-color: #74ef996e;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #377048;
+}
+h1#principal {
+    text-align: center;
+    color: white;
+    background: #56B071;
+    width: 500px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+h2 {
+    color: #56B071;
+}
+.basico {
+    background-color: black;
+    color: green;
+    text-align: center;
+    border-radius: 20px;
+    width: 200px;
+}
+.intermediario{
+    background-color: black;
+    color: rgba(255, 255, 0, 0.699);
+    text-align: center;
+    border-radius: 20px;
+    width: 250px;
+}
+.avancado{
+    background-color: black;
+    color: rgba(255, 0, 0, 0.452);
+    text-align: center;
+    border-radius: 20px;
+    width: 250px;
+}
+.destaque {
+    background-color: white;
+    text-align: center;
+    border-radius: 20px;
+    width: 320px;
+}
+button {
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+}
